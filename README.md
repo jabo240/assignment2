@@ -1,2 +1,3 @@
-# assignment2
-seminar assignment2
+assignment2
+seminar assignment
+KAYIJAMAHE JABO Victoire 2401000260
